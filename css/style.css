@@ -1,0 +1,216 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+    height: 100vh;
+    font-family: 'Montserrat'sans-serif;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 28px;
+    text-align: center;
+    background: #F7F7FE;
+}
+
+
+.p1 {
+    height: 28px;
+    margin-top: 31px;
+    color: #6E728E;
+}
+
+.p {
+    margin-left: 500px;
+}
+
+.p2 {
+    height: 28px;
+    margin-top: 54px;
+    color: #fff;
+}
+
+.p3 {
+    height: 28px;
+    margin-top: 31px;
+    text-align: center;
+    color: #6E728E;
+}
+
+.h1-1 {
+    height: 71px;
+    margin-top: 31px;
+    color: #4A4D60;
+}
+
+.h1-2 {
+    height: 71px;
+    margin-top: 31px;
+    color: #fff;
+}
+
+.h1-3 {
+    height: 71px;
+    margin-top: 31px;
+    color: #4A4D60;
+    text-align: center;
+}
+
+.card1 th {
+    height: 28px;
+    text-align: center;
+    color: #6E728E;
+
+}
+
+
+
+.card3 th {
+    height: 28px;
+    text-align: center;
+
+    color: #6E728E;
+
+}
+
+h3 {
+    height: 39px;
+    text-align: center;
+    color: #6E728E;
+}
+
+.btn1 {
+    left: 0%;
+    right: 0%;
+    top: 0%;
+    bottom: 0%;
+    height: 44px;
+    width: 288px;
+    border-radius: 6px;
+    margin-top: 20px;
+    color: #FFFFFF;
+    border: 0;
+    background: linear-gradient(135deg, #A2A7F0 0%, #696EDD 100%);
+}
+
+.btn2 {
+    left: 0%;
+    right: 0%;
+    top: 0%;
+    bottom: 0%;
+    height: 44px;
+    width: 288px;
+    border: 0;
+    background-color: #FFFFFF;
+    border-radius: 6px;
+    margin-top: 20px;
+    color: #696EDD;
+}
+
+.btn3 {
+    height: 44px;
+    width: 288px;
+    margin-left: 30px;
+    border: 0;
+    margin-top: 20px;
+    border-radius: 6px;
+    color: #FFFFFF;
+    background: linear-gradient(135deg, #A2A7F0 0%, #696EDD 100%);
+}
+
+
+.table {
+    margin-top: 41px;
+}
+
+.card1 table {
+    width: 288px;
+    margin-left: 30px;
+}
+
+.card2 table {
+    width: 288px;
+    margin-left: 30px;
+}
+
+.card3 table {
+    width: 288px;
+    margin-left: 30px;
+}
+
+.card1 {
+    height: 453px;
+    width: 350px;
+    background: #FFFFFF;
+    box-shadow: 0px 20px 40px rgba(212, 210, 244, 0.5);
+    border-radius: 10px 0px 0px 10px;
+    text-align: center;
+}
+
+.card2 {
+    height: 500px;
+    width: 350px;
+    background: linear-gradient(135.06deg, #A2A7F0 -0.05%, #696EDD 100.05%);
+    box-shadow: 0px 20px 40px rgba(212, 210, 244, 0.5);
+    border-radius: 10px;
+    text-align: center;
+}
+
+.card3 {
+    height: 453px;
+    width: 350px;
+    background: #FFFFFF;
+    box-shadow: 0px 20px 40px rgba(212, 210, 244, 0.5);
+    border-radius: 0px 10px 10px 0px;
+}
+
+.body__basic {
+    display: flex;
+    margin-left: 156.5px;
+}
+
+
+.annually {
+    text-align: center;
+    display: flex;
+    margin-left: 40px;
+}
+
+.annually p {
+    height: 28px;
+    margin-right: 30px;
+    text-align: center;
+    margin-left: 30px;
+    color: #6E728E;
+    opacity: 0.5;
+}
+
+.form-switch input {
+    height: 20px;
+    margin-top: 6px;
+    border: 0;
+}
+
+.form-check input:hover {
+    opacity: 0.4;
+}
+
+.btn1:hover {
+    background: linear-gradient(to right, #fff, #FFFFFF);
+    color: #696EDD;
+    border: 1px solid #696EDD;
+}
+
+
+.btn2:hover {
+    background: linear-gradient(135deg, #A2A7F0 0%, #696EDD 100%);
+    color: #fff;
+    border: 1px solid #FFFFFF;
+}
+
+.btn3:hover {
+    background: linear-gradient(to right, #fff, #FFFFFF);
+    color: #696EDD;
+    border: 1px solid #696EDD;
+}
